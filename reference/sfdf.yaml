@@ -5,6 +5,7 @@ info:
   title: sfdf
   version: '1.0'
   description: '[Test](reference/sfdf.yaml/paths/~1users~1{userId}/get)'
+  summary: sdadadsdasdsa
 servers:
   - url: 'http://localhost:3000'
 paths:
